@@ -1,0 +1,21 @@
+#OLD TEXT
+Ionic 5 Ecommerce - Universal iOS & Android Full  Application
+ionic 5 ecommerce themplate Market Mobile Template will help you create a mobile app for both iOS and Android within minutes. Built using the recommended best practices for Ionic 5 and Angular 9, the template gives a very rich native feel and optimized for fast responsiveness
+
+Our application is available in three different versions. 
+
+1- Designed with menu with opencart backend  (http://opencart-ir.com/appendemo/)
+ 2- Designed with tab with opencart backend  (https://codecanyon.net/item/opencart-mobile-app-ionic-with-source-code-and-opencart-module-for-ios-and-android/25005858)
+ 3- Designed with  tab and  local server (json) and you can use with any backend (https://codecanyon.net/item/ionic-5-ecommerce-universal-ios-android-template-ui-theme/27772710?s_rank=1)
+
+Support
+If you need any help using the file or need special customizing please feel free to contact me via (whatsapp and telegram support number +989363587294 or +989925863411 ). If you have a moment, please rate this item, I’ll appreciate it very much!....Thank you.
+
+******************************************************************************
+#NEW TEXT
+Ionic 5 Ecommerce - Universal iOS & Android Full  Application
+ionic 5 ecommerce themplate Market Mobile Template will help you create a mobile app for iOS and Android and Pwa within minutes. Built using the recommended best practices for Ionic 5 and Angular 9, the template gives a very rich native feel and optimized for fast responsiveness 
+
+Support
+If you need any help using the file or need special customizing please feel free to contact me via (whatsapp and telegram support number +989363587294 or +989925863411 ). If you have a moment, please rate this item, I’ll appreciate it very much!....Thank you.
+
